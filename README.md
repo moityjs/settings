@@ -1,2 +1,0 @@
-# settings
-IntelliJ / WebStorm Settings
