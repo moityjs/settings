@@ -1,0 +1,9 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="powershell.exe" />
+    <option name="mySoundBell" value="false" />
+  </component>
+  <component name="TerminalProjectOptionsProvider">
+    <option name="myShellPath" value="powershell.exe" />
+  </component>
+</application>
