@@ -1,0 +1,21 @@
+<profile version="1.0">
+  <option name="myName" value="Majestic" />
+  <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="DebuggerStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertVarToLetConst" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSClassNamingConvention" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="m_minLength" value="3" />
+  </inspection_tool>
+  <inspection_tool class="JSCommentMatchesSignature" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="mySeverity" value="All except when comparing with null" />
+  </inspection_tool>
+  <inspection_tool class="JSJQueryEfficiency" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSLastCommaInArrayLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSMethodCanBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnfilteredForInLoop" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="JSValidateJSDoc" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="WithStatementJS" enabled="true" level="ERROR" enabled_by_default="true" />
+</profile>
