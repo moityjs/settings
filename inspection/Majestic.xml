@@ -4,6 +4,7 @@
   <inspection_tool class="DebuggerStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6ConvertVarToLetConst" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="HtmlDeprecatedTag" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSClassNamingConvention" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="m_minLength" value="3" />
   </inspection_tool>
