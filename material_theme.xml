@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColor">
+      <Color />
+    </option>
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="3" />
+    <option name="isBoldTabs" value="true" />
+  </component>
+</application>
