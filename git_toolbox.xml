@@ -1,5 +1,6 @@
 <application>
   <component name="GitToolBoxAppSettings">
+    <option name="behindTracker" value="false" />
     <option name="showProjectViewLocationPath" value="false" />
     <option name="projectViewStatusBold" value="true" />
   </component>
