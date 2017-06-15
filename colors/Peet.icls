@@ -497,7 +497,6 @@
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="7587a6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -582,8 +581,18 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="FOREGROUND" value="f8f8f8" />
+        <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FOREGROUND" value="f8f8f8" />
+        <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
@@ -1741,6 +1750,12 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
+      </value>
+    </option>
+    <option name="Unused entry">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
