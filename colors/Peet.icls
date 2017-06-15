@@ -354,25 +354,21 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e3e3ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="71d7d7" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffc2c2" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
@@ -395,13 +391,11 @@
     <option name="CUSTOM_STRING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Clojure Atom">
@@ -497,7 +491,6 @@
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="7587a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -814,7 +807,6 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -826,7 +818,6 @@
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -994,7 +985,6 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="7587a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1234,6 +1224,16 @@
         <option name="FOREGROUND" value="f9ee98" />
       </value>
     </option>
+    <option name="POST_CSS_BAD_CHARACTER">
+      <value>
+        <option name="BACKGROUND" value="6e3b3b" />
+      </value>
+    </option>
+    <option name="POST_CSS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="68e868" />
+      </value>
+    </option>
     <option name="PUPPET_BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="6e3b3b" />
@@ -1355,6 +1355,11 @@
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
+      </value>
+    </option>
+    <option name="REGEXP.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5f5a60" />
       </value>
     </option>
     <option name="REST.BOLD">
@@ -1550,6 +1555,9 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
+    <option name="SASS_COMMA">
+      <value />
+    </option>
     <option name="SASS_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
@@ -1603,7 +1611,7 @@
     </option>
     <option name="SASS_PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="cf6a4c" />
+        <option name="FOREGROUND" value="68e868" />
       </value>
     </option>
     <option name="SASS_STRING">
