@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="index" type="ECMAScript 6" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="*.log.*" type="PLAIN_TEXT" />
       <mapping pattern="getAllGroups" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
