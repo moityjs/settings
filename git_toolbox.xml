@@ -2,6 +2,7 @@
   <component name="GitToolBoxAppSettings">
     <option name="behindTracker" value="false" />
     <option name="showProjectViewLocationPath" value="false" />
+    <option name="projectViewStatusColorHex" value="b0bec5" />
     <option name="projectViewStatusBold" value="true" />
   </component>
 </application>
