@@ -1,9 +1,11 @@
 <application>
   <component name="BitbucketServerRegistry">
     <instances>
+      <instance uuid="966ae711-c08b-4324-8aef-13f9ceaab00c" baseUri="http://bitbucket.contactpartners.internal/" />
       <instance uuid="67033426-6a29-46f6-87cb-4195b7c53d68" baseUri="https://stash.liquid-contact.com/" />
     </instances>
     <lookup>
+      <record scheme="ssh" hostname="bitbucket.contactpartners.internal" port="7999" path="/" uuid="966ae711-c08b-4324-8aef-13f9ceaab00c" />
       <record scheme="ssh" hostname="stash.liquid-contact.com" port="7999" path="/" uuid="67033426-6a29-46f6-87cb-4195b7c53d68" />
     </lookup>
   </component>
