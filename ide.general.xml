@@ -13,5 +13,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="terminal.buffer.max.lines.count" value="10000" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
