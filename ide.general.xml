@@ -14,5 +14,6 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="terminal.buffer.max.lines.count" value="10000" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
