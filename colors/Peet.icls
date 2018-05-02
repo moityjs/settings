@@ -941,7 +941,7 @@
     <option name="JS.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="bdb3bf" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
