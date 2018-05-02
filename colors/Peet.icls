@@ -927,6 +927,12 @@
         <option name="BACKGROUND" value="423535" />
       </value>
     </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="bdb3bf" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
