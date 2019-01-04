@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.0.1" />
+    <option name="version" value="2.7.0" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
@@ -9,5 +9,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="accentTitleBarColor" value="80cbc4" />
+    <option name="userId" value="-25624f7b:1681af46b1d:-7fff" />
   </component>
 </application>
