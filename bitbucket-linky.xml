@@ -1,0 +1,16 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance baseUri="http://bitbucket.contactpartners.internal:80/" />
+      <instance baseUri="https://stash.liquid-contact.com:443/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.contactpartners.internal" port="7999" path="/" uuid="a582f176-9214-35a4-b04d-eb8b7ae9991d" />
+      <record scheme="ssh" hostname="stash.liquid-contact.com" port="7999" path="/" uuid="f370445c-566c-3db4-8a05-7b4b9acad3e4" />
+    </lookup>
+  </component>
+  <component name="Instance" id="a5f1724e-99e7-480a-a88e-5f17c393ea00" version="6.1" />
+</application>
