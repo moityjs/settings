@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="JavaScript">
+        <added pattern="Promise.then(onfulfilled,onrejected)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
